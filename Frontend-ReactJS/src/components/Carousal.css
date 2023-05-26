@@ -1,0 +1,35 @@
+.carousal-data {
+    background-image: linear-gradient(to right, transparent , rgb(0, 14, 95,0.5),rgb(0, 14, 95,0.5), transparent);
+}
+
+
+.carousal-image-1{
+    background-image: url('https://m.media-amazon.com/images/G/31/img21/Wireless/ssserene/OP11/GW/26thApr/_1400x800._CB591042106_.jpg');
+    background-repeat: repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.carousal-image-2{
+    background-image: url('https://m.media-amazon.com/images/G/31/img23/Wireless/Samsung/SamsungM/M14/Sale-live-now/D77911710_IN_WLME_SamsungM_M145G_Launch_catpage_1400x800._CB590368077_.jpg');
+    background-repeat: repeat;
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.carousal-image-3{
+    background-image: url('https://www.91-cdn.com/hub/wp-content/uploads/2022/07/Cheapest-5G-Phones-Amazon.png');
+    background-repeat: repeat;
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

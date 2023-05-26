@@ -1,0 +1,60 @@
+.sortdiv{
+    display: flex;
+    width: 100%;
+    height: fit-content;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    border-radius: 8px;
+    min-width: 30%;
+}
+.sortdiv input{
+    height: 38px;
+    width: 60%;
+    border: 1px solid grey;
+    margin: 0;
+    color: black;
+    padding: 0px 20px;
+}
+.sortinput1{
+
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+
+}
+.sortbutton{
+    height: 38px;
+    width: 100px;
+    border: 1px solid grey;
+    color: white;
+    background-color: 	RGB(25, 135, 84);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+
+.sortbar{
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.btn-close-div{
+    margin: 0;
+    width: 20%;
+    height: fit-content;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    color: grey;
+}
+
+.btn-close-div button{
+    margin: 0 10px;
+    padding: 0;
+}

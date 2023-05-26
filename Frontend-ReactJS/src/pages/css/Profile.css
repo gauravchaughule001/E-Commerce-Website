@@ -1,0 +1,24 @@
+.info-data{
+    margin:0;
+    /* background-color: #e0e0e0; */
+    background-image: linear-gradient(to right, #d3ddaf , transparent);
+    padding: 0px 50px;
+    margin: 1px;
+    padding: 10px 30px;
+}
+
+.info-sec{
+    margin:0;
+    background-color: #969696;
+    padding: 0px 50px;
+    margin: 1px;
+    padding: 10px 30px;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 10px;
+}
+
+.info-div{
+    display: flex;
+    flex-direction: row;
+    margin: 40px;
+}

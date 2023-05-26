@@ -1,0 +1,51 @@
+.currentPage{
+    border: 1px solid black;
+    color: rgb(0, 0, 0);
+    padding: 6px;
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 2px;
+}
+
+.page-no{
+    background-color: rgb(255, 255, 255);
+    padding: 6px;
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 2px;
+
+}
+.Go-btn{
+    height: 30px;
+    width: 60px;
+    background-color: black;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.input-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.page-input{
+    padding: 0 10px;
+    height: 30px;
+    width: 150px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border: 1px solid black;
+    margin: 0;
+}

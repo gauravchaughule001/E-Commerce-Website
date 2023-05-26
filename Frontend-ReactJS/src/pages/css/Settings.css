@@ -1,0 +1,38 @@
+.settings-body{
+    margin-top: 60px;
+}
+
+.option-div{
+    list-style: none;
+}
+
+.setting-option{
+    background-color: #ddd;
+    padding: 8px 20px;
+    border: 1px solid #bbb2b2;
+    margin: 0 50px;
+    font-weight: bold;
+    text-align: left;
+    cursor: pointer;
+}
+
+.option-expand{
+    font-weight: bolder;
+    font-size: 3rem;
+    display: block;
+    animation: expand-div 0.3s ease-in-out;
+    flex: 1;
+}
+
+@keyframes expand-div {
+    0%{
+        transform:scaleY(0);
+        margin: 0;
+
+    }
+    100%{
+        transform: scaleY(1);
+        margin: auto;
+    }
+    
+}
