@@ -9,7 +9,6 @@ import lombok.Setter;
 @Data
 @Setter
 @Getter
-@NoArgsConstructor
 @AllArgsConstructor
 public class FileUploadResponse {
 	

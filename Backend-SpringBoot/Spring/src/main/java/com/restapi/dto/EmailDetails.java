@@ -17,8 +17,6 @@ import lombok.NoArgsConstructor;
 
 // Annotations
 @Data
-@AllArgsConstructor
-@NoArgsConstructor
 
 // Class
 public class EmailDetails {
